@@ -34,8 +34,32 @@ Borrador del artículo científico sobre los hotspots del vector del dengue.
 
 ### Risk of Dengue Transmission in the Metropolitan Area of Mexico City
 
+#### Portada
 
-### 
+![](portada_cdmx.png)
+
+#### Borrador
+
+[Risk of Dengue Transmission in the Metropolitan Area of Mexico City](https://github.com/fdzul/redaccion_articulo_cientifico_I/blob/main/risk_cdmx.pdf)
+
+### Census and distribution of Aedes albopictus1 (Skuse, 1894) in Acapulco, Guerrero, Mexico.
+
+#### Portada
+
+![](portada_acapulco.png)
+#### Borrador
+
+[Census and distribution of Aedes albopictus1 (Skuse, 1894) in Acapulco, Guerrero, Mexico](https://github.com/fdzul/redaccion_articulo_cientifico_I/blob/main/ae_albopictus_acapulco.pdf)
+
+### Radiografía espacial de la violencia familiar en México
+
+### Portada 
+
+![](portada_violencia.png)
+
+#### Borrador
+
+[Radiografía espacial de la violencia familiar en México](https://github.com/fdzul/redaccion_articulo_cientifico_I/blob/main/RxViolenciaAlchol_230125.pdf)
 
 ## Conclusión
 
