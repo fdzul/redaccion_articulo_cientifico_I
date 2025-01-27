@@ -15,6 +15,13 @@ execute:
 
 ## Introducción
 
+La definición de los escenarios operativos u epidemiológicos de la transmisión persistente y la transmisión activa del dengue se basa en los análisis espaciales de la vigilancia epidemiológica y entomológica del dengue. Los procesos y algoritmos de los hotspots de la transmisión persistente de los virus del dengue en México ya ha sido publicado por [FAMD](https://www.thelancet.com/journals/lanplh/article/PIIS2542-5196(21)00030-9/fulltext) y los resultados preliminares de los análisis de los hotspos del vector del dengue en el Puerto de veracruz, ha sido publicado por [FADM](https://acaentmex.org/entomologia/revista/2019/EMF/EMF%20497-501.pdf).
+
+Los resultados de los hotspots del vector del dengue solo incluye el área metropolitana de la ciudad y Puerto de Veracruz. Es importante mencionar que en México hay más de 700 localidades con información entomológica, por lo que los algoritmos para el análisis debe extrapolarse a todas las localidades de México con información entomológica.
+
+Los resultados de los análisis de todas las localidades de Mexico puede encontrarse en el anexos relacionados con las actividades de [Identificación de los hotspots de transmisión persistente](https://comforting-licorice-03ebff.netlify.app) y [Identificación de los hotspots de la abundancia persistente del vector](https://comforting-licorice-03ebff.netlify.app)
+
+
 ## Actividad
 
 Redacción de un Artículo Científico I.
@@ -27,7 +34,10 @@ Borrador del artículo científico sobre los hotspots del vector del dengue.
 
 ## Material & Métodos
 
+Los resultados de los análisis de todas las localidades de México puede encontrarse en el anexos relacionados con las actividades de [Identificación de los hotspots de transmisión persistente](https://comforting-licorice-03ebff.netlify.app) y [Identificación de los hotspots de la abundancia persistente del vector](https://comforting-licorice-03ebff.netlify.app).
+Aunque no se ha escrito el borrador del artículo relacionado con los análisis los hotspots del vector del dengue, el Dr. FADM, ha colaborado con otros grupos de investigación relacionados con la identificación de escenarios epidemiológicos de problemas de salud pública de México
 
+Dado que los resultados de los hotspots del vector del dengue del dengue se encuentran publicado en dashboard para su uso por el programa nacional de vectores de México, acontinuación se presenta los borradores de otros articulos.
 
 ## Resultados
 
