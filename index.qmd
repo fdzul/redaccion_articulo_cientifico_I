@@ -17,9 +17,25 @@ execute:
 
 ## Actividad
 
+Redacción de un Artículo Científico I.
+
+
+## Producto
+
+Borrador del artículo científico sobre los hotspots del vector del dengue.
+
+
 ## Material & Métodos
 
+
+
 ## Resultados
+
+
+### Risk of Dengue Transmission in the Metropolitan Area of Mexico City
+
+
+### 
 
 ## Conclusión
 
