@@ -1,0 +1,26 @@
+---
+title: "Apoyo académico a los estudiantes de pregrado y posgrado del laboratorio y participación en los seminarios del grupo"
+subtitle: Felipe Antonio Dzul Manzanilla | CVU 6172953
+format: 
+  html:
+      theme: flatly
+      code-fold: true
+      toc: true
+      number-sections: true
+title-block-banner: true
+editor: visual
+execute:
+  freeze: auto
+---
+
+## Introducción
+
+## Actividad
+
+
+## Material & Métodos
+
+## Resultados
+
+## Conclusión
+
