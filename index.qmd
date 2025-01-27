@@ -1,5 +1,5 @@
 ---
-title: "Apoyo académico a los estudiantes de pregrado y posgrado del laboratorio y participación en los seminarios del grupo"
+title: "Redacción de un Artículo Científico"
 subtitle: Felipe Antonio Dzul Manzanilla | CVU 6172953
 format: 
   html:
@@ -16,7 +16,6 @@ execute:
 ## Introducción
 
 ## Actividad
-
 
 ## Material & Métodos
 
